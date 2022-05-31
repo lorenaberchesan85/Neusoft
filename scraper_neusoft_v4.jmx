@@ -78,10 +78,6 @@
           <hashTree>
             <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header Manager" enabled="true">
               <collectionProp name="HeaderManager.headers">
-                <elementProp name="Content-type" elementType="Header">
-                  <stringProp name="Header.name">Content-type</stringProp>
-                  <stringProp name="Header.value">application/json</stringProp>
-                </elementProp>
                 <elementProp name="" elementType="Header">
                   <stringProp name="Header.name">apikey</stringProp>
                   <stringProp name="Header.value">3868877-2ef0-8763-a772-183db0c515cf</stringProp>
